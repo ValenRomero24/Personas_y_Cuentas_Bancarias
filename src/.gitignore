@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+*.iml
+*.log
+*.classpath
+*.project
+.vscode/
+
+# Mac / Windows / Linux
+.DS_Store
+Thumbs.db
+
+# build tools
+/bin/
+/build/
+/out/
